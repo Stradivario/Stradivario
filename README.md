@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-![Metrics](https://metrics.lecoq.io/stradivario?template=classic)
+<!-- ![Metrics](https://metrics.lecoq.io/stradivario?template=classic) -->
 
-[![GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=stradivario)](https://github.com/stradivario)
+<!-- [![GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=stradivario)](https://github.com/stradivario) -->
 
 
 
-[![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stradivario&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/riz4d)
+<!-- [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stradivario&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/riz4d)
 </div>
+ -->
